@@ -1,0 +1,13 @@
+<OTA_VehAvailRateRQ Version="1.03" TimeStamp="2007-05-29T16:09:18">
+    <POS>
+        <Source>
+            <RequestorID Type="008.UIT" ID="operatorId" MessagePassword="password"></RequestorID>
+        </Source>
+    </POS>
+    <VehAvailRQCore Status="Available">
+        <VehRentalCore PickUpDateTime="2007-06-12T11:30:00" ReturnDateTime="2007-06-19T16:00:00">
+            <PickUpLocation LocationCode="630"></PickUpLocation>
+            <ReturnLocation LocationCode="641"></ReturnLocation>
+        </VehRentalCore>
+    </VehAvailRQCore>
+</OTA_VehAvailRateRQ>
